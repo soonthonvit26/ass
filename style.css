@@ -1,0 +1,95 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.box1 {
+    height:270px;
+    width:400px;
+    border: 1px;
+    background-color: rgb(232, 183, 195);
+    margin: 3rem;
+    padding: 0rem;
+    border-radius: 10px;
+    justify-self: center;
+    align-self: center;
+}
+.box2 {
+    display: flex;
+}
+.box1 .box2 img {
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    border-radius: 100%;
+}
+.as .ff img {
+    height: 70px;
+    width: 70px;
+    margin: 5px;
+    border-radius: 10px;
+}
+.text {
+    display: flex;
+}
+.text1 {
+    font-size: 12px;
+    margin-right: 10px;
+}
+.dd {
+    margin-left: 10px;
+    display: flex;
+}
+.r {
+    margin-left: 5px;
+    width: 20px;
+    height: 200px;
+    background-color: rgb(71, 69, 69);
+}
+.p {
+    display: flex;
+}
+.text3 .as img {
+    height: 50px;
+    width: 50px;
+}
+.as {
+    display: flex;
+   
+}
+.q1 {
+    display: flex;
+}
+.address1 {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); 
+        text-align: center;
+      
+}
+.address {
+    margin-left: 10px;
+}
+.date1 p{
+    font-size: 12px;
+}
+.date1 .p1{
+    font-size: 10px;
+}
+
+
+.date99 {
+align-self: end;
+
+    }
+
+    .date99 img {
+    height: 100px;
+    width:90px;
+    margin-right: 2px;
+
+
+
+    }
+
+    .box2 img {
+        border-radius: 10px;
+    }
